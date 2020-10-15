@@ -1,0 +1,13 @@
+________________________________________
+                 CALIFORNIA PIZZA
+________________________________________
+                     ORDER RECEIPT
+________________________________________
+Date:                                               Time: 
+2020-07-24                                15:12:40
+                       BillNo:6577
+
+PIZZA                                      AMOUNT
+Chicken Tikkah		|	12
+Chicken Fajita		|	24
+

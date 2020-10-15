@@ -1,0 +1,1 @@
+messagebox.showerror("Invalid input", "Insert only integers in quantity entry!")
